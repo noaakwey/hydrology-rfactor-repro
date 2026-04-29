@@ -86,9 +86,3 @@ Those inputs are intentionally excluded from version control. The manuscript Dat
 - public code: this repository
 - restricted or large inputs: described in `data/README.md`
 - derived publication outputs: optionally releasable via Zenodo or a separate archive
-
-## Before making the repository public
-
-- choose and add a software license
-- replace the placeholder GitHub URL in `CITATION.cff`
-- optionally tag a release and archive it on Zenodo for the manuscript DOI
