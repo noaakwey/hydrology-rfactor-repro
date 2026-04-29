@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Hydrology R-factor reproducibility repository"
+message: "If you use this code, please cite the associated Hydrology article and the archived software release."
+type: software
+authors:
+  - family-names: "Gafurov"
+    given-names: "Artur"
+repository-code: "https://github.com/PLACEHOLDER/hydrology-rfactor-repro"
+license: "NOASSERTION"
